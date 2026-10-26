@@ -8,7 +8,7 @@ Prototype full-stack app created with assistive AI (GitHub Copilot/GPT-5.3-Codex
 
 > Image asset path: `docs/images/ops-dashboard-overview.png`
 
-## Vision for the app.
+## Vision for the app
 
 This repository is a sandbox for two goals:
 
